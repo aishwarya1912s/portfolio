@@ -5,3 +5,5 @@ My name is Aishwarya and my pronouns are she/her
 I hope to learn interesting data visualization skills that will help me in my future job.
 # Portfolio
 Final Project
+# Portfolio link
+https://aishwarya1912s.github.io/portfolio/
