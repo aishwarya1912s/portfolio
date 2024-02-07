@@ -1,10 +1,9 @@
 | [home page](https://aishwarya1912s.github.io/portfolio/) | [visualizing debt](https://aishwarya1912s.github.io/portfolio/Visualizing_government_debt_part3.html) | [critique by design](https://aishwarya1912s.github.io/portfolio/critique-by-design.html) | 
 
 # Assignment 3 & 4
-
-  <br>  <br>
+  <br>  
   
-# Where Does Your Medicine Come From? This Map Shows You
+**Where Does Your Medicine Come From? This Map Shows You**
 
 [Data Visualization article Link](https://howmuch.net/articles/world-map-of-drug-exports-2016)   
 
@@ -12,7 +11,7 @@
 
 Drugs and medicine are big business. In 2016, there was a 1.5% global decline in the total value of drug and medicine exports. Even with that drop, the industry's players exported $318B, making drugs and medicine one of the world's top industries. But where do all those pills, serums, and creams come from?  They wanted to find out. So they dissected the data from 2016 and broke it down by continent, country, and export totals. Then they put it on this map. Check it out.
   
-  <br>  <br>
+  <br> 
 
 # Original Data Visualization
 
@@ -44,10 +43,9 @@ However, the data overload, limited information, and accessibility issues hinder
 
 Apart from decluttering it, I would consider introducing zoom, filter, and hover features to allow users to explore specific countries, data points. This would address the issue of limited information and data overload, enabling viewers to delve deeper into areas of interest. Also, I would try to include a more color-blind friendly palette. I would also definitely use more contrasting colors for the bubbles and the text, increase the font size and ensure the total amount of global export money as a statistic  is included in the visualization. Ideally, I would redesign the entire thing into a bar chart.
 
+<br>
     
 ![OriginalPic](OriginalPic.jpeg)
-
-
 
   <br>  <br>
 
@@ -61,7 +59,7 @@ Apart from decluttering it, I would consider introducing zoom, filter, and hover
 
 # Test Interview Feedback
 
-  <br>  <br>
+  <br>
 
 **First Feedback- student:**
 
