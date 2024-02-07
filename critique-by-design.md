@@ -1,5 +1,23 @@
 | [home page](https://aishwarya1912s.github.io/portfolio/) | [visualizing debt](https://aishwarya1912s.github.io/portfolio/Visualizing_government_debt_part3.html) | [critique by design](https://aishwarya1912s.github.io/portfolio/critique-by-design.html) | 
 
+
+### Adding images
+
+Here's an example of how to add an image to my portfolio.  
+
+![funny dog picture](OriginalPic.jpeg)
+> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
+Alternately, you can set the size of the image using just a bit of HTML: 
+
+<img src="funny-dog-unsplash.jpg" width="200"/>
+
+Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else. 
+
+
+
+
 # Title
 Text here...
 
