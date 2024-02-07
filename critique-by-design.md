@@ -99,6 +99,12 @@ What changes would you suggest to the picture?
 Maybe keep all bars the same color. Also, remove the last few bars, they are too small to see or make a difference. Otherwise, it is good.
 
 
+**Insights from Feedback**
+
+Definitely the first change to be made is losing the color in the chart! Both of them found it distracting to the eyes. I planned to highlight the highest value bar but it seems it wasn’t reaching the audience the way I thought. Need to think of another way. 
+Also, there seems to be too much data in the chart. It seems it wasn’t all visible nor too necessary. Seems like the title is perfect and succinct to the audience.
+One of the interviewees got confused with the percentage label on the bars. Might need to rethink that too. Their stated answers to the questions about the visualization’s message and the target audience seems to be similar to what I predicted, so it seems the message is clear enough. Overall, it seems the bar chart was a good idea to redesign the visualization.
+
 
 
   <br>  <br>
