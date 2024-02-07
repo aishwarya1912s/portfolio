@@ -18,7 +18,24 @@ Drugs and medicine are big business. In 2016, there was a 1.5% global decline in
 
   <br>  <br>
 
-text here...
+THINGS I DISLIKED:-
+What stood out to me immediately were the giant purple blobs in the center of the visualization. They directed all the focus away from the rest of the components and all I could focus on were the dark purple blobs.
+Additionally, the color scheme of using varying shades of purple meant that the lightest shades were indistinguishable from each other. The contrast with the text was terribly unclear and a strain to the eyes.
+The names of the countries are also all cluttered together and it's very tough to read anything. 
+There is no stating of the total number of exports in the world, anywhere in the visualization. 
+The bubble sizes all seemed similar and it distorted the perception of relative differences between the bubbles. It can  lead to misinterpretations. 
+The font size of the texts here is too small.  
+Also, the collective percentage of each continent is almost lost among the bubbles unless the viewer looks for it specifically.
+The gray areas on the map for the continent are distracting and unnecessary. It is only making the visualization more cluttered. 
+The continent names are also in gray and hence not contrasting well with the white background. 
+
+THINGS I LIKED:-
+The title is clear and relevant.
+I liked the legend for the percentage of exports. 
+
+MY INITIAL REDESIGN IDEA:-
+If i could redesign it, i would not use a bubble chart but instead a bar or line chart, with calm colors and clear text.  It might be better to write it in a different color. 
+Also, depending on the use, I would choose to include/exclude some of the countries from the visualization, or at least highlight the relevant ones. In a redesigned bar chart I would use colors like red or green, with blue, yellow to show different categories of export percentage categories. I would also ideally remove the Source and the company logo from the visualization.
 
 
     
