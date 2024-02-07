@@ -27,10 +27,11 @@ text here...
 
 ![Wireframe](Wireframe.jpeg)
 
-<img src="Wireframe.jpg" width="75"/>
+
+<img src="Wireframe.jpeg" width="75"/>
+
 
 text here...
-
 
 
   <br>  <br>
