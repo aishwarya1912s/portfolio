@@ -17,7 +17,7 @@ Drugs and medicine are big business. In 2016, there was a 1.5% global decline in
 # Original Data Visualization
 
 
-THINGS I DISLIKED:-
+**THINGS I DISLIKED:-**
 What stood out to me immediately were the giant purple blobs in the center of the visualization. They directed all the focus away from the rest of the components and all I could focus on were the dark purple blobs.
 Additionally, the color scheme of using varying shades of purple meant that the lightest shades were indistinguishable from each other. The contrast with the text was terribly unclear and a strain to the eyes.
 The names of the countries are also all cluttered together and it's very tough to read anything. 
@@ -28,15 +28,15 @@ Also, the collective percentage of each continent is almost lost among the bubbl
 The gray areas on the map for the continent are distracting and unnecessary. It is only making the visualization more cluttered. 
 The continent names are also in gray and hence not contrasting well with the white background. 
 
-THINGS I LIKED:-
+**THINGS I LIKED:-**
 The title is clear and relevant.
 I liked the legend for the percentage of exports. 
 
-MY INITIAL REDESIGN IDEA:-
+**MY INITIAL REDESIGN IDEA:-**
 If i could redesign it, i would not use a bubble chart but instead a bar or line chart, with calm colors and clear text.  It might be better to write it in a different color. 
 Also, depending on the use, I would choose to include/exclude some of the countries from the visualization, or at least highlight the relevant ones. In a redesigned bar chart I would use colors like red or green, with blue, yellow to show different categories of export percentage categories. I would also ideally remove the Source and the company logo from the visualization.
 
-WHO I THINK THE PRIMARY AUDIENCE WILL BE? IS IT EFFECTIVE? WHAT CHANGES WOULD YOU MAKE,IF ANY?
+**WHO I THINK THE PRIMARY AUDIENCE WILL BE? IS IT EFFECTIVE? WHAT CHANGES WOULD YOU MAKE,IF ANY?**
 
 I believe the primary audience here are the policymakers, concerned with the economic impact of pharmaceuticals and international trade dynamics. It could also be business professionals working in the pharmaceutical industry who are seeking insights into export trends and potential markets. 
 
@@ -63,7 +63,7 @@ Apart from decluttering it, I would consider introducing zoom, filter, and hover
 
   <br>  <br>
 
-First Feedback- student:
+**First Feedback- student:**
 
 What’s your immediate first impression of the picture shown to you?
 It looks very yellow! It is sort of distracting to the eyes.
@@ -81,7 +81,7 @@ What changes would you suggest to the picture?
 Remove the yellow for sure! The red isn’t needed either. Also, after looking closer, I'm a little confused if it is a value in percentage or dollars. Both are visible.
 
 
-Second Feedback 2- student:
+**Second Feedback 2- student:**
 
  What’s your immediate first impression of the picture shown to you?
 Looks straightforward. Some statistics about exports..
@@ -105,10 +105,6 @@ Maybe keep all bars the same color. Also, remove the last few bars, they are too
 
 # Redesigned Data Visualization
   <br>  <br>
-  
-  text here...
-
-
 
     
 <div class='tableauPlaceholder' id='viz1707274872295' style='position: relative'><noscript><a href='#'><img alt='Pharmaceutical Exports in the World in 2016 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ph&#47;PharmaceuticalExportsintheWorldin2016&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PharmaceuticalExportsintheWorldin2016&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ph&#47;PharmaceuticalExportsintheWorldin2016&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' />
