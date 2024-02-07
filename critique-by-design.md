@@ -25,6 +25,7 @@ text here...
 
 ![Wireframe](Wireframe.jpeg)
 
+<img src="Wireframe.jpg" width="100"/>
 
 text here...
 
