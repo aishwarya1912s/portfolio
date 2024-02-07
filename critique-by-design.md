@@ -4,11 +4,11 @@
 
   <br>  <br>
   
-Where Does Your Medicine Come From? This Map Shows You
+# Where Does Your Medicine Come From? This Map Shows You
 
 [Data Visualization article Link](https://howmuch.net/articles/world-map-of-drug-exports-2016)   
 
-`[Data Sources Link](https://howmuch.net/sources/world-map-of-drug-exports-2016)` = [Data Sources Link](https://howmuch.net/sources/world-map-of-drug-exports-2016) 
+[Data Sources Link](https://howmuch.net/sources/world-map-of-drug-exports-2016) 
 
 Drugs and medicine are big business. In 2016, there was a 1.5% global decline in the total value of drug and medicine exports. Even with that drop, the industry's players exported $318B, making drugs and medicine one of the world's top industries. But where do all those pills, serums, and creams come from?  They wanted to find out. So they dissected the data from 2016 and broke it down by continent, country, and export totals. Then they put it on this map. Check it out.
   
@@ -49,7 +49,7 @@ Also, depending on the use, I would choose to include/exclude some of the countr
 
   <br>  <br>
 
-<img src="Wireframe.jpeg" width="100"/>
+<img src="Wireframe.jpeg" width="200"/>
 
 
 text here...
