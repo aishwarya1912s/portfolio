@@ -128,5 +128,8 @@ Maybe keep all bars the same color. Also, remove the last few bars, they are too
 # References
 
   <br>  <br>
-
-text here...
+  
+https://howmuch.net/articles/world-map-of-drug-exports-2016
+https://www.trademap.org/Country_SelProduct_TS.aspx?nvpm=1%7c%7c%7c%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c2%7c1%7c1%7c1
+https://howmuch.net/sources/world-map-of-drug-exports-2016
+https://www.worldstopexports.com/drugs-medicine-exports-country/?expand_article=1
