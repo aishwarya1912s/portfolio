@@ -1,5 +1,6 @@
 | [home page](https://aishwarya1912s.github.io/portfolio/) | [visualizing debt](https://aishwarya1912s.github.io/portfolio/Visualizing_government_debt_part3.html) | [critique by design](https://aishwarya1912s.github.io/portfolio/critique-by-design.html) | 
 
+# Original Data Visualization
 
 ### Adding images
 
@@ -9,17 +10,7 @@ Here's an example of how to add an image to my portfolio.
 > Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
-Alternately, you can set the size of the image using just a bit of HTML: 
-
-<img src="funny-dog-unsplash.jpg" width="200"/>
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else. 
-
-
-
-
-# Title
-Text here...
+# Redesigned Data Visualization
 
 <div class='tableauPlaceholder' id='viz1707274872295' style='position: relative'><noscript><a href='#'><img alt='Pharmaceutical Exports in the World in 2016 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ph&#47;PharmaceuticalExportsintheWorldin2016&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PharmaceuticalExportsintheWorldin2016&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ph&#47;PharmaceuticalExportsintheWorldin2016&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>  
 <script type='text/javascript'>                 
