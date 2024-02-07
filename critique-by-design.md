@@ -16,7 +16,6 @@ Drugs and medicine are big business. In 2016, there was a 1.5% global decline in
 
 # Original Data Visualization
 
-  <br>  <br>
 
 THINGS I DISLIKED:-
 What stood out to me immediately were the giant purple blobs in the center of the visualization. They directed all the focus away from the rest of the components and all I could focus on were the dark purple blobs.
@@ -37,6 +36,13 @@ MY INITIAL REDESIGN IDEA:-
 If i could redesign it, i would not use a bubble chart but instead a bar or line chart, with calm colors and clear text.  It might be better to write it in a different color. 
 Also, depending on the use, I would choose to include/exclude some of the countries from the visualization, or at least highlight the relevant ones. In a redesigned bar chart I would use colors like red or green, with blue, yellow to show different categories of export percentage categories. I would also ideally remove the Source and the company logo from the visualization.
 
+WHO I THINK THE PRIMARY AUDIENCE WILL BE? IS IT EFFECTIVE? WHAT CHANGES WOULD YOU MAKE,IF ANY?
+
+I believe the primary audience here are the policymakers, concerned with the economic impact of pharmaceuticals and international trade dynamics. It could also be business professionals working in the pharmaceutical industry who are seeking insights into export trends and potential markets. 
+
+However, the data overload, limited information, and accessibility issues hinder its effectiveness, especially for deeper insights or specific details. Specific comparisons or regional analyses are mainly difficult to do.  Overall, this visualization is not very effective for the audience.
+
+Apart from decluttering it, I would consider introducing zoom, filter, and hover features to allow users to explore specific countries, data points. This would address the issue of limited information and data overload, enabling viewers to delve deeper into areas of interest. Also, I would try to include a more color-blind friendly palette. I would also definitely use more contrasting colors for the bubbles and the text, increase the font size and ensure the total amount of global export money as a statistic  is included in the visualization. Ideally, I would redesign the entire thing into a bar chart.
 
     
 ![OriginalPic](OriginalPic.jpeg)
@@ -49,7 +55,7 @@ Also, depending on the use, I would choose to include/exclude some of the countr
 
   <br>  <br>
 
-<img src="Wireframe.jpeg" width="200"/>
+<img src="Wireframe.jpeg" width="300"/>
 
 
 text here...
