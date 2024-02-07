@@ -55,11 +55,7 @@ Apart from decluttering it, I would consider introducing zoom, filter, and hover
 
   <br>  <br>
 
-<img src="Wireframe.jpeg" width="300"/>
-
-
-text here...
-
+<img src="Wireframe.jpeg" width="500"/>
 
   <br>  <br>
 
