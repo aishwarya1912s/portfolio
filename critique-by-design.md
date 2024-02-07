@@ -6,7 +6,7 @@
   
 Where Does Your Medicine Come From? This Map Shows You
 
-`[Data Visualization article Link](https://howmuch.net/articles/world-map-of-drug-exports-2016)` = [Data Visualization article Link](https://howmuch.net/articles/world-map-of-drug-exports-2016)   
+[Data Visualization article Link](https://howmuch.net/articles/world-map-of-drug-exports-2016)   
 
 `[Data Sources Link](https://howmuch.net/sources/world-map-of-drug-exports-2016)` = [Data Sources Link](https://howmuch.net/sources/world-map-of-drug-exports-2016) 
 
