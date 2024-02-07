@@ -119,13 +119,38 @@ One of the interviewees got confused with the percentage label on the bars. Migh
   var scriptElement = document.createElement('script');        
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);     
 </script>
+
+
+<br> 
+
+**Summary** 
+
+The first thing I noticed from the exercise completion was how much the interviewing and getting Feedback helped. My Wireframe looked distinctly different from what my current, final version looks like. Building upon mine and their Feedback I was able to create the best version of the data easily.<br>
+
+The Feedback I received said that there was too much information, namely too many bars that did not add value. The bar chart also looked clustered to the left with the lower value bars being almost indecipherable. So I decided to include only the entries which had more than 1% share of world export more than 1%. Those were the only one sI felt were relevant enough.<br>
+
+Also, I changed the color scheme to a calmer blue, to avoid distraction. I dropped the idea of highlighting the highest value with a different color and instead chose to allow users to highlight the bar of their choice using the search filter I added at the top right corner.<br>
+
+Also, since one user said the % data entries in the bars were confusing, I decided to include them not as labels but as data that will show up when the user hover over the bar, via a ToolTip. Instead, I chose to display the values of the exports in dollars, above the respective bars in the chart. That felt more intuitive.<br>
+
+I chose to rename the title as ‘Pharmaceutical’ rather than the original ‘Drugs and Medicine’ as I felt it was shorter and more comprehensive. It was well-received by the audience. I made sure to include the value 2016 in the title for easiest understanding.<br>
+
+I was definitely pleased with my decision to redesign the visualization as a bar chart as now it seems much cleaner and easier to read. The labels are now clearer to read and understand as I chose a simple font, with a bold and straightforward black color. The modified  title in green was also well received by the audience. I felt the green added a nice calm complement to the cool blue used in the bars.<br>
+
+The values shown in the bars in the y axis range in millions of dollars and I have made sure to indicate that on the chart. To avoid confusion in reading the exact values, the precise value has been included as a label above the bars.<br>
+
+I thought of using a line graph or a pie chart to denote the data, but a line graph would have been suitable for continuous data and a pie chart  would have had too many slices for all the many countries. Hence, the bar chart was the best choice.<br>
+
+I feel I got rid of the clutter problem in the bubble chart by designing a clean bar chart. The possible confusion about the largest value due to similar circle sizes is now avoided. Also, I chose not to denote the different countries grouped together by continent as I felt they did not add much value to the chart. <br>
+
+Overall, I feel I have resolved all the issues I and the test subjects identified with the visualizations, and the end result is now a much cleaner and easier to understand visualization.<br>
+
   
   <br>  <br>
   
 
 # References
 
-  <br> 
   
 https://howmuch.net/articles/world-map-of-drug-exports-2016
 https://www.trademap.org/Country_SelProduct_TS.aspx?nvpm=1%7c%7c%7c%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c2%7c1%7c1%7c1
