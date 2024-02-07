@@ -1,4 +1,4 @@
-| [home page](https://aishwarya1912s.github.io/portfolio/) | [visualizing debt](https://aishwarya1912s.github.io/portfolio/Visualizing_government_debt_part3.html) | [critique by design](https://aishwarya1912s.github.io/portfolio/critique-by-design.md) | 
+| [home page](https://aishwarya1912s.github.io/portfolio/) | [visualizing debt](https://aishwarya1912s.github.io/portfolio/Visualizing_government_debt_part3.html) | [critique by design](https://aishwarya1912s.github.io/portfolio/critique-by-design.html) | 
 
 # Title
 Text here...
