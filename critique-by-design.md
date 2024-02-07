@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/portfolio/) | [visualizing debt](https://cmustudent.github.io/portfolio/Visualizing_government_debt_part3.html) | [critique by design](critique-by-design) | 
+| [home page](https://aishwarya1912s.github.io/portfolio/) | [visualizing debt](https://aishwarya1912s.github.io/portfolio/Visualizing_government_debt_part3.html) | [critique by design](critique-by-design) | 
 
 # Title
 Text here...
