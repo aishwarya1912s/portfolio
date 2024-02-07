@@ -63,7 +63,40 @@ Apart from decluttering it, I would consider introducing zoom, filter, and hover
 
   <br>  <br>
 
-text here...
+First Feedback- student:
+
+What’s your immediate first impression of the picture shown to you?
+It looks very yellow! It is sort of distracting to the eyes.
+
+Is it clear what the picture is trying to convey?
+I think it is about the percentage of pharmaceutical exports in 2016.
+
+Who do you think the target audience is?
+Probably pharma companies.
+
+What did you like most about it?
+The clear title. It makes it very easy to understand.
+
+What changes would you suggest to the picture?
+Remove the yellow for sure! The red isn’t needed either. Also, after looking closer, I'm a little confused if it is a value in percentage or dollars. Both are visible.
+
+
+Second Feedback 2- student:
+
+ What’s your immediate first impression of the picture shown to you?
+Looks straightforward. Some statistics about exports..
+
+Is it clear what the picture is trying to convey?
+Yes, it's about pharmaceutical exports in the world..
+
+Who do you think the target audience is?
+Depends, maybe government officers or students doing research.
+
+What did you like most about it?
+The clear labels and titles on the bar chart. Also, the descending order bar sizes.
+
+What changes would you suggest to the picture?
+Maybe keep all bars the same color. Also, remove the last few bars, they are too small to see or make a difference. Otherwise, it is good.
 
 
 
