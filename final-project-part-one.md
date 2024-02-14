@@ -21,7 +21,9 @@ In response to the challenges posed by traditional treatment options, I will exp
 > As an interested student of the topic, I want to explore the connection between reading and mental health so that I can gain a deeper understanding of how literature can contribute to emotional well-being.
 I can do this by analyzing empirical data to gain insights on the impact of reading.
 
-![UserStory](UserStory.jpeg)
+  <br>  <br>
+<img src="UserStory.jpeg" width="600"/>
+  <br>  <br>
 
 # Initial sketches
 > I will create bar charts of research data available to visualize the effectiveness of bibliotherapy as a treatment. This will help me quantify and compare the impact of different literary interventions on mental health outcomes. For example, I can compare the reduction in symptoms like neuroticism among individuals who engaged in reading fiction versus those who participated in traditional therapy sessions, providing concrete evidence of the therapeutic potential of literature.
@@ -29,12 +31,13 @@ I will also create line graphs to illustrate the longitudinal effects of bibliot
 Pie charts might be helpful to visually represent the distribution of reading preferences among the general population. 
 All these tools in combination will give me valuable insights.
 
-![barchart](barchart.jpeg)
-
-![linegraph](linegraph.jpeg)
-
-![piechart](piechart.jpeg)
-
+  <br>  <br>
+<img src="barchart.jpeg" width="600"/>
+  <br>  <br>
+<img src="linegraph.jpeg" width="600"/>
+  <br>  <br>
+<img src="piechart.jpeg" width="600"/>
+  <br>  <br>
 
 # The data
 > I will obtain the data from open data repositories, mainly from figshare. I have located public data in CSV formats that I can use to filter and preprocess the datasets, ensuring that I extract relevant subsets for my analysis.
