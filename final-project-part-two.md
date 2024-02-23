@@ -11,7 +11,7 @@ Please follow along below to my story outline:-
 The idea is to give the reader a starting point to figure out what my story is about.
 
 
-![Shorthand cover page](Shorthand cover page.jpeg)
+![Shorthand cover page](Shorthand cover page.png)
 
 
 
@@ -199,17 +199,29 @@ This interview was focussed a lot more on the visual aspects rather than the sto
 There were some common observations across the 3 interviewees. Based on the Feedback I have come to the following conclusions for my next Project Part’s plan:-
 
 1. Both interviewees 1 and 2 initially struggled with understanding the visualizations. I will ensure that I add sufficient textual explanations with the charts wherever necessary.
-2.All 3 of them struggled with some of the terms used like COPE,CORE and Connect. Since these are terms specific to the mental health studies and treatments, it was too high-level for them. I will make sure I include more explanation for them in the final project version.
-3.Will work on increasing font size for all the charts wherever needed.
-4.May consider replacing the word cloud with a bar chart or table if necessary for better readability.
-5.Will include a more detailed explanation about Bibliotherapy and its exact methods. Also, I will add more relevant images too.
-6.Might consider adding animation to the charts to make it more interesting and aesthetic.
-7.I will ensure I have included all citations and data sources necessary for the project.
-8.The visual elements need to be appropriately sized when incorporating into Shorthand. Will need to keep that in mind.
-9.Will focus on adding a strong Call to Action pitch in the final page in Shorthand.
-10.I will also add maybe a survey result about student awareness of college wellness programmes as suggested by interviewee 3.
-11.Will fix alignments at a few places to better clarify the visuals.
-12.I will also double check that I have added titles and labels to all the visuals in the story.
+
+2. All 3 of them struggled with some of the terms used like COPE,CORE and Connect. Since these are terms specific to the mental health studies and treatments, it was too high-level for them. I will make sure I include more explanation for them in the final project version.
+
+3. Will work on increasing font size for all the charts wherever needed.
+
+4. May consider replacing the word cloud with a bar chart or table if necessary for better readability.
+
+5. Will include a more detailed explanation about Bibliotherapy and its exact methods. Also, I will add more relevant images too.
+
+6. Might consider adding animation to the charts to make it more interesting and aesthetic.
+
+7. I will ensure I have included all citations and data sources necessary for the project.
+
+8. The visual elements need to be appropriately sized when incorporating into Shorthand. Will need to keep that in mind.
+
+9. Will focus on adding a strong Call to Action pitch in the final page in Shorthand.
+
+10. I will also add maybe a survey result about student awareness of college wellness programmes as suggested by interviewee 3.
+
+11. Will fix alignments at a few places to better clarify the visuals.
+
+12. I will also double check that I have added titles and labels to all the visuals in the story.
+
 13. Will try to highlight the Bibliotherapy bar in a different colour in the 2 bar charts. It will improve readabilty and draw attention better.
 
 
@@ -217,7 +229,17 @@ There were some common observations across the 3 interviewees. Based on the Feed
 # References
 
 1.https://figshare.com/articles/dataset/Five_studies_evaluating_the_impact_on_mental_health_and_mood_of_recalling_reading_and_discussing_fiction/17087135
-2.https://figshare.com/articles/dataset/Summary_of_the_benefits_and_effects_of_Life_Story_Book_in_dementia_care_/24251606 3.https://figshare.com/projects/A_Global_Book_Reading_Dataset/118854 4.https://figshare.com/articles/dataset/Mean_results_US_of_the_base_case_cost-effectiveness_model_of_four_parenting_programs_and_bibliotherapy_in_comparison_to_the_waitlist_control_/11304224 5.https://figshare.com/articles/dataset/Readership_characteristics_of_our_experimental_subjects_/20061486
+
+2.https://figshare.com/articles/dataset/Summary_of_the_benefits_and_effects_of_Life_Story_Book_in_dementia_care_/24251606 
+
+3.https://figshare.com/projects/A_Global_Book_Reading_Dataset/118854 
+
+4.https://figshare.com/articles/dataset/Mean_results_US_of_the_base_case_cost-effectiveness_model_of_four_parenting_programs_and_bibliotherapy_in_comparison_to_the_waitlist_control_/11304224 
+
+5.https://figshare.com/articles/dataset/Readership_characteristics_of_our_experimental_subjects_/20061486
+
 6. https://www.samhsa.gov/data/report/national-mental-health-services-survey-n-mhss-2019-data-mental-health-treatment-facilities
+
 7. https://figshare.com/articles/dataset/Dataset_for_MH_Journal_article_csv/24550777
+
 8.Few, Stephen. Data Visualization Effectiveness Profile. 2017.
