@@ -130,14 +130,47 @@ To satisfy this criteria, I have chosen a mix of 3 such students from CMU and Co
 
 > (Introduction, consent, warm-up questions)
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+> As a framework to design my interview questions, I aim to refer to Stephen Few’s Data Visualization Effectiveness Profile. Stephen talks of 2 broad categories with a few more sub-categories. I aim to keep these categories as the goals I wish to achieve and draft out my questions in line to them.
 
+Accordingly, my interview questions will be:- 
 
-Text here!
+A. Informative:-
+
+1. Usefulness:
+Which specific data visualization resonated with you the most ?
+What information did you learn from these visualizations?
+Do you think the current visualizations convey all the necessary information effectively?
+Are there any missing data points or insights that could be added?
+Did you find the story useful to incorporate into your life?
+
+2. Perceptibility:
+How easy is it for you to understand the data represented in my visualizations?
+Which elements of the visualizations seem clear and effective?
+Are there any confusing elements or visual clutter that needs to be addressed?
+
+3.Truthfulness:
+How confident are you in the accuracy of the data represented in these visualizations?
+Do you think any of these might have a bias?
+Would you believe in the insights drawn from these visualizations?
+
+4. Intuitiveness
+How easily were you able to navigate and explore these visualizations?
+Was the story flow and design layout intuitive?
+Was any particular visualization difficult to understand?
+
+B. Emotive:-
+
+1. Aesthetics:
+What is your overall impression of the visual design and aesthetics of the visualizations?
+Do you think the color scheme, fonts, and layout are effective and appealing?
+Are there any visual elements that seem distracting or out of place?
+Any suggestions to improve the aesthetics?
+
+2. Engagement:
+What elements of the visualizations captured your immediate and prolonged attention?
+Was the story interesting?
+Any suggestions to make the story more engaging?
+
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
