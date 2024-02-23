@@ -4,7 +4,7 @@
 > After collecting relevant data to support my idea in Part 1, now, in Part 2 I worked on implementing a high fidelity outline of what I want my story to be like. The objective was to run it by a few interviewees and receive feedback to build on for my final part of the project. To create visualizations of the critical elements of the project I have used Tableau and aim to use Shorthand to compile all the elements together into one compelling story.
 
 
-> Please follow along below to my story outline:-
+Please follow along below to my story outline:-
 
 
  First, I will start off with a cover page that's titled “ Bibliotherapy:Read your way to wellness”.
