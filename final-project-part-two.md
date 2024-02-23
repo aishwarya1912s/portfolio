@@ -7,6 +7,16 @@
 > Please follow along below to my story outline:-
 
 
+> First, I will start off with a cover page that's titled “ Bibliotherapy:Read your way to wellness”.
+The idea is to give the reader a starting point to figure out what my story is about.
+
+> Next, I will give the reader a brief overview of what Bibliotherapy is about. I will also talk about the plethora of mental health disorders that plague the people in the world today.
+
+> The subsequent page will introduce the reader to my target audience- the students at Universities. It is a well-known fact that students in this day and age face one of the most intense pressures to succeed in this competitive world. This leads to multiple mental health issues. 
+
+> Next, the reader will view some of my Tableau creations. They should be pretty self-explanatory but I have added appropriate labels to aid the user wherever necessary.
+
+
 <div class='tableauPlaceholder' id='viz1708656661166' style='position: relative'><noscript><a href='#'><img alt='Distribution of mental disorders awareness in students ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;di&#47;distributionofawareness&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='distributionofawareness&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;di&#47;distributionofawareness&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>            
 <script type='text/javascript'>       
   var divElement = document.getElementById('viz1708656661166');           
