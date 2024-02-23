@@ -193,18 +193,19 @@ This interview was focussed a lot more on the visual aspects rather than the sto
 
 There were some common observations across the 3 interviewees. Based on the Feedback I have come to the following conclusions for my next Project Part’s plan:-
 
-Both interviewees 1 and 2 initially struggled with understanding the visualizations. I will ensure that I add sufficient textual explanations with the charts wherever necessary.
-All 3 of them struggled with some of the terms used like COPE,CORE and Connect. Since these are terms specific to the mental health studies and treatments, it was too high-level for them. I will make sure I include more explanation for them in the final project version.
-Will work on increasing font size for all the charts wherever needed.
-May consider replacing the word cloud with a bar chart or table if necessary for better readability.
-Will include a more detailed explanation about Bibliotherapy and its exact methods. Also, I will add more relevant images too.
-Might consider adding animation to the charts to make it more interesting and aesthetic.
-I will ensure I have included all citations and data sources necessary for the project.
-The visual elements need to be appropriately sized when incorporating into Shorthand. Will need to keep that in mind.
-Will focus on adding a strong Call to Action pitch in the final page in Shorthand.
-I will also add maybe a survey result about student awareness of college wellness programmes as suggested by interviewee 3.
-Will fix alignments at a few places to better clarify the visuals.
-I will also double check that I have added titles and labels to all the visuals in the story.
+1. Both interviewees 1 and 2 initially struggled with understanding the visualizations. I will ensure that I add sufficient textual explanations with the charts wherever necessary.
+2.All 3 of them struggled with some of the terms used like COPE,CORE and Connect. Since these are terms specific to the mental health studies and treatments, it was too high-level for them. I will make sure I include more explanation for them in the final project version.
+3.Will work on increasing font size for all the charts wherever needed.
+4.May consider replacing the word cloud with a bar chart or table if necessary for better readability.
+5.Will include a more detailed explanation about Bibliotherapy and its exact methods. Also, I will add more relevant images too.
+6.Might consider adding animation to the charts to make it more interesting and aesthetic.
+7.I will ensure I have included all citations and data sources necessary for the project.
+8.The visual elements need to be appropriately sized when incorporating into Shorthand. Will need to keep that in mind.
+9.Will focus on adding a strong Call to Action pitch in the final page in Shorthand.
+10.I will also add maybe a survey result about student awareness of college wellness programmes as suggested by interviewee 3.
+11.Will fix alignments at a few places to better clarify the visuals.
+12.I will also double check that I have added titles and labels to all the visuals in the story.
+13. Will try to highlight the Bibliotherapy bar in a different colour in the 2 bar charts. It will improve readabilty and draw attention better.
 
 
 
