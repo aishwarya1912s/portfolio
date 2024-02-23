@@ -238,8 +238,8 @@ There were some common observations across the 3 interviewees. Based on the Feed
 
 5.https://figshare.com/articles/dataset/Readership_characteristics_of_our_experimental_subjects_/20061486
 
-6. https://www.samhsa.gov/data/report/national-mental-health-services-survey-n-mhss-2019-data-mental-health-treatment-facilities
+6.https://www.samhsa.gov/data/report/national-mental-health-services-survey-n-mhss-2019-data-mental-health-treatment-facilities
 
-7. https://figshare.com/articles/dataset/Dataset_for_MH_Journal_article_csv/24550777
+7.https://figshare.com/articles/dataset/Dataset_for_MH_Journal_article_csv/24550777
 
 8.Few, Stephen. Data Visualization Effectiveness Profile. 2017.
