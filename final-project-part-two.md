@@ -128,11 +128,11 @@ To satisfy this criteria, I have chosen a mix of 3 such students from CMU and Co
 
 > Target Audience: University students aged 18-25, experiencing academic pressure, stress, and potentially mental health challenges.
 
-> (Introduction, consent, warm-up questions)
-
-> As a framework to design my interview questions, I aim to refer to Stephen Few’s Data Visualization Effectiveness Profile. Stephen talks of 2 broad categories with a few more sub-categories. I aim to keep these categories as the goals I wish to achieve and draft out my questions in line to them.
+As a framework to design my interview questions, I aim to refer to Stephen Few’s Data Visualization Effectiveness Profile. Stephen talks of 2 broad categories with a few more sub-categories. I aim to keep these categories as the goals I wish to achieve and draft out my questions in line to them.
 
 Accordingly, my interview questions will be:- 
+
+ (Introduction, consent, warm-up questions)
 
 A. Informative:-
 
