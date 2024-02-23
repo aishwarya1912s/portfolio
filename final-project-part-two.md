@@ -158,7 +158,7 @@ How confident are you in the accuracy of the data represented in these visualiza
 Do you think any of these might have a bias?
 Would you believe in the insights drawn from these visualizations?
 
-4. Intuitiveness
+4.Intuitiveness
 How easily were you able to navigate and explore these visualizations?
 Was the story flow and design layout intuitive?
 Was any particular visualization difficult to understand?
