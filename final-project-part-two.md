@@ -10,6 +10,11 @@ Please follow along below to my story outline:-
  First, I will start off with a cover page that's titled “ Bibliotherapy:Read your way to wellness”.
 The idea is to give the reader a starting point to figure out what my story is about.
 
+
+![Shorthand cover page](Shorthand cover page.jpeg)
+
+
+
  Next, I will give the reader a brief overview of what Bibliotherapy is about. I will also talk about the plethora of mental health disorders that plague the people in the world today.
 
  The subsequent page will introduce the reader to my target audience- the students at Universities. It is a well-known fact that students in this day and age face one of the most intense pressures to succeed in this competitive world. This leads to multiple mental health issues. 
