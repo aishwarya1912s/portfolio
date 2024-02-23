@@ -7,14 +7,14 @@
 > Please follow along below to my story outline:-
 
 
-> First, I will start off with a cover page that's titled “ Bibliotherapy:Read your way to wellness”.
+ First, I will start off with a cover page that's titled “ Bibliotherapy:Read your way to wellness”.
 The idea is to give the reader a starting point to figure out what my story is about.
 
-> Next, I will give the reader a brief overview of what Bibliotherapy is about. I will also talk about the plethora of mental health disorders that plague the people in the world today.
+ Next, I will give the reader a brief overview of what Bibliotherapy is about. I will also talk about the plethora of mental health disorders that plague the people in the world today.
 
-> The subsequent page will introduce the reader to my target audience- the students at Universities. It is a well-known fact that students in this day and age face one of the most intense pressures to succeed in this competitive world. This leads to multiple mental health issues. 
+ The subsequent page will introduce the reader to my target audience- the students at Universities. It is a well-known fact that students in this day and age face one of the most intense pressures to succeed in this competitive world. This leads to multiple mental health issues. 
 
-> Next, the reader will view some of my Tableau creations. They should be pretty self-explanatory but I have added appropriate labels to aid the user wherever necessary.
+ Next, the reader will view some of my Tableau creations. They should be pretty self-explanatory but I have added appropriate labels to aid the user wherever necessary.
 
 
 <div class='tableauPlaceholder' id='viz1708656661166' style='position: relative'><noscript><a href='#'><img alt='Distribution of mental disorders awareness in students ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;di&#47;distributionofawareness&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='distributionofawareness&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;di&#47;distributionofawareness&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>            
@@ -66,7 +66,9 @@ The idea is to give the reader a starting point to figure out what my story is a
 </script>
 
 
+
 > The 5 line graphs below depict the effect of Bibliotherapy on a expereimental group. The results indicate significant efefct of the therapy in the Before and the After states for the subjects. This indicates that Bibliotherapy is indeed efefctive in managing mental health issues.
+
 
 <div class='tableauPlaceholder' id='viz1708657615118' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CO&#47;CORE_TSWDproject&#47;GlobaldistressCORE&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CORE_TSWDproject&#47;GlobaldistressCORE' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CO&#47;CORE_TSWDproject&#47;GlobaldistressCORE&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>           
 <script type='text/javascript'>                   
@@ -89,6 +91,8 @@ The idea is to give the reader a starting point to figure out what my story is a
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);      
 </script>
 
+
+
 > The reader will next view a 'Call to Action' page on Shorthand that will encourage the studnets to seek help if they are suffering with any mental disorders. It will re-iterate the ease and cost-effectiveness of Bibliotherapy as a treatment option to deal with it. I will also list out some resources or events occuring nearby or in the recent future, that the studnets might like to check out.
 
 
@@ -97,7 +101,7 @@ The idea is to give the reader a starting point to figure out what my story is a
 
 ## Target audience
 
-> My project, "Bibliotherapy: Read your way to wellness," is on a mission to help university students like myself navigate the pressures and anxieties of college life. As a student myself, I've seen firsthand the toll that stress, competition, and uncertainty can take on mental well-being. Traditional solutions like therapy often face barriers of cost, stigma, or limited availability. That's why I'm passionate about exploring Bibliotherapy – the power of reading to heal and empower. It's accessible, affordable, and can offer comfort, coping mechanisms, and even inspiration. 
+My project, "Bibliotherapy: Read your way to wellness," is on a mission to help university students like myself navigate the pressures and anxieties of college life. As a student myself, I've seen firsthand the toll that stress, competition, and uncertainty can take on mental well-being. Traditional solutions like therapy often face barriers of cost, stigma, or limited availability. That's why I'm passionate about exploring Bibliotherapy – the power of reading to heal and empower. It's accessible, affordable, and can offer comfort, coping mechanisms, and even inspiration. 
 
 By targeting my project towards students, I hope to equip them with alternative tools to manage their mental health and thrive in their academic journey. Ultimately, I believe Bibliotherapy can be a powerful weapon in our collective fight for student well-being. Hence, my target audience will be an average college student.
 
