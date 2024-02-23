@@ -173,36 +173,30 @@ Any suggestions to make the story more engaging?
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+The interviews were conducted in a mix of virtually and in person. Each discussion lasted approximately 20 minutes. The resultant findings were:
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+Interview 1:
+The interviewee liked the ‘Distribution of mental disorders awareness in students’ heat map the most. Found the colors calming and the design not too cluttered. He did not like the word cloud as he felt it was messy. Did not fully understand the significance of it without me explaining it to him. He liked the 2 bar charts as he found them well structured and simple to understand. Again, he did not like the line graph much but accepted the point when I explained it to him.
+Overall, he liked the idea of the story but wanted to see more explanation for all of it. Felt that more details about the exact method of Bibliotherapy might help understand. He was willing to accept the accuracy and truthfulness of the story but only once I explained a bit more about Bibliotherapy to him.
+
+Interview 2:
+This interviewee was initially quite confused about what the charts were saying. She was more focussed on the visual aspect of it than trying to read the accompanying explanation.  However, once she focussed properly on the flow, she liked the idea. Felt it was a novel and cool story idea. She asked why there was so much red in the word cloud. She did not understand the line graphs very well. Did not understand what the 5 treatments mentioned there were about.
+Overall, she liked the idea but wasn’t sure of the reliability without seeing some citations or data tables. She was unwilling to trust only the visualizations on their own.
+
+Interview 3:
+This interview was focussed a lot more on the visual aspects rather than the story. He was more interested in looking at the different colors, fonts and the charts created in the visualizations. He liked the variety of visualizations present. But he wanted a different color for the ‘Bibliotherapy’ bar in the 2 bar charts. Suggested that might draw better attention to it. He felt the line graph was a little distracting due to the sharp turns on the chart. But he liked the red and green colors used in the charts to denote before and after. Suggested that more generic images of people reading books might help to increase visual appeal in the story. He liked the Dementia patient chart but felt it did not add much value. He also suggested that maybe a survey of how many students knew about or had a wellness programme at their college would be an interesting thing to know.
+
 
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
 
-> ...include any final thoughts you have here. 
+# References
 
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
+1.https://figshare.com/articles/dataset/Five_studies_evaluating_the_impact_on_mental_health_and_mood_of_recalling_reading_and_discussing_fiction/17087135 2.https://figshare.com/articles/dataset/Summary_of_the_benefits_and_effects_of_Life_Story_Book_in_dementia_care_/24251606 3.https://figshare.com/projects/A_Global_Book_Reading_Dataset/118854 4.https://figshare.com/articles/dataset/Mean_results_US_of_the_base_case_cost-effectiveness_model_of_four_parenting_programs_and_bibliotherapy_in_comparison_to_the_waitlist_control_/11304224 5.https://figshare.com/articles/dataset/Readership_characteristics_of_our_experimental_subjects_/20061486
+6. https://www.samhsa.gov/data/report/national-mental-health-services-survey-n-mhss-2019-data-mental-health-treatment-facilities
+7. https://figshare.com/articles/dataset/Dataset_for_MH_Journal_article_csv/24550777
+8.Few, Stephen. Data Visualization Effectiveness Profile. 2017.
