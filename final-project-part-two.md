@@ -96,9 +96,29 @@ The idea is to give the reader a starting point to figure out what my story is a
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+> My project, "Bibliotherapy: Read your way to wellness," is on a mission to help university students like myself navigate the pressures and anxieties of college life. As a student myself, I've seen firsthand the toll that stress, competition, and uncertainty can take on mental well-being. Traditional solutions like therapy often face barriers of cost, stigma, or limited availability. That's why I'm passionate about exploring Bibliotherapy – the power of reading to heal and empower. It's accessible, affordable, and can offer comfort, coping mechanisms, and even inspiration. 
+
+By targeting my project towards students, I hope to equip them with alternative tools to manage their mental health and thrive in their academic journey. Ultimately, I believe Bibliotherapy can be a powerful weapon in our collective fight for student well-being. Hence, my target audience will be an average college student.
+
+Additionally, while the primary focus is college students, the information on Bibliotherapy can be relevant to anyone interested in mental well-being and alternative treatment options. User groups like  university administrators and mental health professionals can also be possible audiences to my story. University staff can promote awareness and access, while professionals could integrate Bibliotherapy into their treatment plans. 
+
+When I look at identifying possible subjects to test my story outline on, I have decided to reach out to three varied types of people for maximum inclusivity and coverage - 
+
+1. A high achieving Student:-
+Someone who is a departmental high achiever or someone consistently on the Dean's List.
+Why? The aim is to explore their experiences with academic stress, perfectionism, competition, and future anxieties. I will ask about their current strategies for managing stress and maintaining mental well-being. They will be good user targets to gauge their potential interest in using reading as a mental health tool.
+
+2. A student openly struggling with Mental Health:-
+Someone who openly discusses mental health challenges like anxiety, depression, or academic burnout. 
+Why? This subgroup will have a diverse perspective as they will have already been looking at different mechanisms to approach their mental health treatment. They can help me with their insights on traditional mental health services, if any, and the barriers they faced. I can gauge how open they are to trying out Bibliotherapy as a possible alternative.
+
+3. A randomly selected student:
+Someone from a different academic discipline, ethnicity or socio-economic background.
+Why? This subgroup will help give a neutral approach to the topic. They will add diverse perspectives to the approach and might end up throwing up a very interesting new idea. I can explore their overall perceptions of student life, mental health awareness, and stress management. The questions for them will be pretty open-ended.
+
+To satisfy this criteria, I have chosen a mix of 3 such students from CMU and Columbia University. The interviews were condcuted either over Zoom or in-person.
+
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
