@@ -125,9 +125,10 @@ To satisfy this criteria, I have chosen a mix of 3 such students from CMU and Co
 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+> Target Audience: University students aged 18-25, experiencing academic pressure, stress, and potentially mental health challenges.
+
+> (Introduction, consent, warm-up questions)
 
 | Goal | Questions to Ask |
 |------|------------------|
