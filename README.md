@@ -2,7 +2,7 @@
 
 # My Portfolio
 
-<div class="markdown" style="color: orange; font-size: 30px;">
+<div class="markdown" style="color: maroon; font-size: 30px;">
 
   # About Me
 </div>
