@@ -2,7 +2,7 @@
 
 # The final data story
 [Shorthand final project link](https://carnegiemellon.shorthandstories.com/bibliotherapy/index.html) 
-
+Bibliotherapy: Read your way to wellness
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
