@@ -37,18 +37,18 @@ By studying "Telling Stories with Data," I hope to learn effective frameworks an
   # My Work
 </div>
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [visualizing debt](https://aishwarya1912s.github.io/portfolio/visualizing-government-debt.html)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [critique by design](https://aishwarya1912s.github.io/portfolio/critique-by-design.html)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+[final project I](https://aishwarya1912s.github.io/portfolio/final-project-part-one.html) 
+[final project II](https://aishwarya1912s.github.io/portfolio/final-project-part-two.html) 
+[final project III](https://aishwarya1912s.github.io/portfolio/final-project-part-three.html)
 
+Here it might be helpful to include a high-level description of your final project. 
 
 <div class="markdown" style="color: maroon; font-size: 30px;">
 
