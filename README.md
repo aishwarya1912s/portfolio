@@ -9,7 +9,10 @@ My Carnegie Mellon University "Telling Stories With Data" portfolio demonstrates
   # About Me
 </div>
 
-![linekdin1](linekdin1.png)
+ <br>  <br>
+<img src="linekdin1.png" width="500"/>
+  <br>  <br>
+
 
 My name is Aishwarya Singtamkar(she/her) and I am a current Master’s student at Carnegie Mellon University. I am pursuing a degree in the Information Systems Management (MISM) track here. I am improving my skills in Data Visualization, Storytelling with data, drawing insights, envisioning solution designs for a problem by studying the course Telling Stories with Data. I am interested in Product Management roles and I am confident that these skills will help me do justice to the role. My email id is asingtam@andrew.cmu.edu and I look forward to connecting with you here.
 
