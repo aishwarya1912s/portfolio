@@ -44,14 +44,13 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
+ <br>  <br>
 [final project I](https://aishwarya1912s.github.io/portfolio/final-project-part-one.html) 
-
-
+ <br>  <br>
 [final project II](https://aishwarya1912s.github.io/portfolio/final-project-part-two.html) 
-
-
+ <br>  <br>
 [final project III](https://aishwarya1912s.github.io/portfolio/final-project-part-three.html)
-
+ <br>  <br>
 Here it might be helpful to include a high-level description of your final project. 
 
 <div class="markdown" style="color: maroon; font-size: 30px;">
