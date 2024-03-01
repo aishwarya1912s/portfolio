@@ -10,7 +10,7 @@
 My name is Aishwarya and my pronouns are she/her
 
 
-<div class="markdown" style="color: dark green; font-size: 30px;">
+<div class="markdown" style="color: maroon; font-size: 30px;">
 
   # What i hope to learn
 </div>
@@ -18,7 +18,7 @@ My name is Aishwarya and my pronouns are she/her
 I hope to learn interesting data visualization skills that will help me in my future job.
 
 
-<div class="markdown" style="color: dark green; font-size: 30px;">
+<div class="markdown" style="color: maroon; font-size: 30px;">
 
   # Portfolio
 </div>
@@ -26,7 +26,7 @@ I hope to learn interesting data visualization skills that will help me in my fu
 Final Project
 
 
-<div class="markdown" style="color: dark green; font-size: 30px;">
+<div class="markdown" style="color: maroon; font-size: 30px;">
 
   # Portfolio Link
 </div>
