@@ -10,7 +10,7 @@ My Carnegie Mellon University "Telling Stories With Data" portfolio demonstrates
 </div>
 
  <br>  <br>
-<img src="linekdin1.png" width="500"/>
+<img src="linekdin1.png" width="200"/>
   <br>  <br>
 
 
