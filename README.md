@@ -58,7 +58,7 @@ Step five: build your solution
  <br>  <br>
 
 
-By analyzing data, I seek to understand how reading habits correlate with mental health indicators and explore the mechanisms through which reading can positively influence emotional and psychological wellness. It will look at how bibliotherapy (a creative arts therapy that involves storytelling or the reading of specific texts) can be useful in addressing our wellness. Drawing a correlation between reading habits and mental health outcomes, I will highlight the potential of literature as a therapeutic tool for enhancing emotional well-being.
+In this project, by analyzing data, I seek to understand how reading habits correlate with mental health indicators and explore the mechanisms through which reading can positively influence emotional and psychological wellness. I will look at how bibliotherapy (a creative arts therapy that involves storytelling or the reading of specific texts) can be useful in addressing our wellness. Drawing a correlation between reading habits and mental health outcomes, I will highlight the potential of literature as a therapeutic tool for enhancing emotional well-being.
 
 
 <div class="markdown" style="color: maroon; font-size: 30px;">
