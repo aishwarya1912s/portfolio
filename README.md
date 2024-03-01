@@ -54,11 +54,11 @@ Step four: test the solution
 Step five: build your solution
 
 ## Final project
-[final project I](https://aishwarya1912s.github.io/portfolio/final-project-part-one.html) 
+[final project part I](https://aishwarya1912s.github.io/portfolio/final-project-part-one.html) 
  <br>  <br>
-[final project II](https://aishwarya1912s.github.io/portfolio/final-project-part-two.html) 
+[final project part II](https://aishwarya1912s.github.io/portfolio/final-project-part-two.html) 
  <br>  <br>
-[final project III](https://aishwarya1912s.github.io/portfolio/final-project-part-three.html)
+[final project part III](https://aishwarya1912s.github.io/portfolio/final-project-part-three.html)
  <br>  <br>
 
 
