@@ -44,9 +44,13 @@ By studying "Telling Stories with Data," I hope to learn effective frameworks an
 
 ## Assignment 3&4: [critique by design](https://aishwarya1912s.github.io/portfolio/critique-by-design.html)
 Step one: Select a visualization to redesign from MakeoverMonday
+
 Step two: critique the visualization
+
 Step three: wireframe a solution
+
 Step four: test the solution
+
 Step five: build your solution
 
 ## Final project
