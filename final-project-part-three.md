@@ -6,9 +6,33 @@
 Bibliotherapy: Read your way to wellness
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+> After obtaining Feedback from the user research, interviews and the Professor and TA, I have made the following changes to my Story when finalizing my Story flow in Shorthand ,based on :-
 
-Text here!
+Professor and TA’s Feedback:- 
+
+1. Refined the story to focus on general benefits of reading (mainly as an additional therapeutic tool for mental health issues) rather than a direct remedy to mental health disorders.
+
+2. Added more specific titles to better explain the story visualizations.
+
+3. Added a very clear Call to Action page, which focused on general benefits from starting reading rather than as it being a remedy to any particular mental health disorder.
+
+4. Added a warning in the end that specified that this is not medical advice for mental health disorders, in which case, consulting a trained medical professional is important.
+
+User Research feedback:-
+
+1. Moved the brief overview of what Bibliotherapy is about to later on in the screens, instead of immediately at the beginning.
+
+2. Elaborated more on describing mental health disorders and some statistics.
+
+3. Added a pie chart that gave students' responses to surveys about whether their college has wellness support.
+
+4. Additionally, based on in-class critique, I made sure to add some more written explanation for what Bibliotherapy is and hence, dedicated an entire page to its description.
+
+5. To ensure visual consistency, I meticulously maintained uniformity in images, fonts, titles, and visualizations throughout my portfolio. 
+
+6. I also made sure I cited all the content that was not cited to avoid any copyright issues.
+
+I also added more text explaining the studies related to the visualizations since everyone asked for more information to better understand it. Additionally, I proofread for grammatical errors and ensured the proper rendering of both all the visualizations.
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
