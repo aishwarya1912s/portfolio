@@ -22,7 +22,14 @@ My name is Aishwarya Singtamkar(she/her) and I am a current Master’s student a
   # What i hope to learn
 </div>
 
-I hope to learn interesting data visualization skills that will help me in my future job.
+1. Expertise in data visualization and storytelling:
+I'm particularly interested in refining my ability to visually represent data in a way that is not only clear, but also engaging and impactful for diverse audiences.
+
+2. Advanced skills in drawing insights from data: 
+This involves honing my ability to not only analyze data but also identify significant patterns, relationships, and trends that can be used to inform decision-making and problem-solving.
+
+3. A strong foundation in solution design: 
+By studying "Telling Stories with Data," I hope to learn effective frameworks and methodologies for translating data insights into actionable solutions, considering various user needs and potential challenges.
 
 
 <div class="markdown" style="color: maroon; font-size: 30px;">
