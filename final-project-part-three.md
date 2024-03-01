@@ -1,10 +1,9 @@
 | [home page](https://aishwarya1912s.github.io/portfolio/) | [visualizing debt](https://aishwarya1912s.github.io/portfolio/visualizing-government-debt.html) | [critique by design](https://aishwarya1912s.github.io/portfolio/critique-by-design.html) | [final project I](https://aishwarya1912s.github.io/portfolio/final-project-part-one.html) | [final project II](https://aishwarya1912s.github.io/portfolio/final-project-part-two.html) |  [final project III](https://aishwarya1912s.github.io/portfolio/final-project-part-three.html) |
 
-
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
+ <br>  <br>
+[Shorthand final project link](https://carnegiemellon.shorthandstories.com/bibliotherapy/index.html) 
+ <br>  <br>
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
