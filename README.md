@@ -38,10 +38,16 @@ By studying "Telling Stories with Data," I hope to learn effective frameworks an
 </div>
 
 ## Assignment: [visualizing debt](https://aishwarya1912s.github.io/portfolio/visualizing-government-debt.html)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+1. Government debt bar chart
+2. Heat map
+3. The third data visualization
 
 ## Assignment 3&4: [critique by design](https://aishwarya1912s.github.io/portfolio/critique-by-design.html)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+Step one: Select a visualization to redesign from MakeoverMonday
+Step two: critique the visualization
+Step three: wireframe a solution
+Step four: test the solution
+Step five: build your solution
 
 ## Final project
 [final project I](https://aishwarya1912s.github.io/portfolio/final-project-part-one.html) 
@@ -50,7 +56,10 @@ For this assignment, make sure you set up and link to a new page.  This page is 
  <br>  <br>
 [final project III](https://aishwarya1912s.github.io/portfolio/final-project-part-three.html)
  <br>  <br>
-Here it might be helpful to include a high-level description of your final project. 
+
+
+By analyzing data, I seek to understand how reading habits correlate with mental health indicators and explore the mechanisms through which reading can positively influence emotional and psychological wellness. It will look at how bibliotherapy (a creative arts therapy that involves storytelling or the reading of specific texts) can be useful in addressing our wellness. Drawing a correlation between reading habits and mental health outcomes, I will highlight the potential of literature as a therapeutic tool for enhancing emotional well-being.
+
 
 <div class="markdown" style="color: maroon; font-size: 30px;">
 
