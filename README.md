@@ -55,7 +55,4 @@ Here it might be helpful to include a high-level description of your final proje
 <div class="markdown" style="color: maroon; font-size: 30px;">
 
   # Portfolio Link
-</div>
-https://aishwarya1912s.github.io/portfolio/
-<br>  <br>
 [my portfolio link](https://aishwarya1912s.github.io/portfolio/)
