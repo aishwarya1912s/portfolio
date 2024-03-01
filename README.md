@@ -45,7 +45,11 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Final project
 [final project I](https://aishwarya1912s.github.io/portfolio/final-project-part-one.html) 
+
+
 [final project II](https://aishwarya1912s.github.io/portfolio/final-project-part-two.html) 
+
+
 [final project III](https://aishwarya1912s.github.io/portfolio/final-project-part-three.html)
 
 Here it might be helpful to include a high-level description of your final project. 
