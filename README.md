@@ -36,6 +36,12 @@ This involves honing my ability to not only analyze data but also identify signi
 By studying "Telling Stories with Data," I hope to learn effective frameworks and methodologies for translating data insights into actionable solutions, considering various user needs and potential challenges.
 
 
+ <br>  <br>
+<img src="TSWD Read me image.jpeg" width="200"/>
+  <br>  <br>
+
+
+
 <div class="markdown" style="color: maroon; font-size: 30px;">
 
   # My Work
