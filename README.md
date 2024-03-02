@@ -37,7 +37,7 @@ By studying "Telling Stories with Data," I hope to learn effective frameworks an
 
 
  <br>  <br>
-<img src="TSWD Read me image.jpeg" width="200"/>
+<img src="TSWD Read me image.jpeg" width="300"/>
   <br>  <br>
 
 
