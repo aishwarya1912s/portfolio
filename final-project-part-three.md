@@ -34,10 +34,19 @@ User Research feedback:-
 
 I also added more text explaining the studies related to the visualizations since everyone asked for more information to better understand it. Additionally, I proofread for grammatical errors and ensured the proper rendering of both all the visualizations.
 
-## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+## The audience
+> Target Audience: University students aged 18-25, experiencing academic pressure, stress, and potentially mental health challenges.
+
+As a student myself, I’ve seen firsthand the toll that stress, competition, and uncertainty can take on mental well-being. Traditional solutions like therapy often face barriers of cost, stigma, or limited availability. That’s why I’m passionate about exploring Bibliotherapy – the power of reading to heal and empower. It’s accessible, affordable, and can offer comfort, coping mechanisms, and even inspiration. Hence, I looked at University students to be my target audience.
+
+When I started wireframing my Story I was looking at targeting very specifically the students at universities who are afflicted with a mental health disorder, and planned to suggest Reading almost as a solution to it. However, as I spoke with more users and took Feedback from reviewers I realized there was a more broader scope possible. Also, exploration of more explanatory text for the survey studies led me to more surveys and research papers that looked at reading as simply a well-being benefit rather than just as a targeted mental health remedy.
+This was a huge turning point as now I looked at Bibliotherapy as a tool to be integrated into everyone’s life, not just those suffering from an issue. This greatly influenced my Story design and flow.
+
+By targeting my project towards students, I hoped to equip them with tools to manage their stress  or even any mental health issues, and thrive in their academic journey. Although, while the primary focus is college students, the information on Bibliotherapy can be relevant to anyone who is interested in mental well-being pursuit.  Even user groups like university administrators and mental health professionals can also be possible audiences to my story. University staff can promote awareness and access, while professionals could integrate Bibliotherapy into their treatment plans.
+
+Ultimately, I believed Bibliotherapy could be a powerful weapon for well-being for almost anyone and everyone.
+
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
