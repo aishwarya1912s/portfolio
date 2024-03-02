@@ -6,7 +6,7 @@
 Bibliotherapy: Read your way to wellness
 
 # Changes made since Part II
-> After obtaining Feedback from the user research, interviews and the Professor and TA, I have made the following changes to my Story when finalizing my Story flow in Shorthand ,based on :-
+After obtaining Feedback from the user research, interviews and the Professor and TA, I have made the following changes to my Story when finalizing my Story flow in Shorthand ,based on :-
 
 Professor and TA’s Feedback:- 
 
@@ -36,7 +36,7 @@ I also added more text explaining the studies related to the visualizations sinc
 
 
 ## The audience
-> Target Audience: University students aged 18-25, experiencing academic pressure, stress, and potentially mental health challenges.
+Target Audience: University students aged 18-25, experiencing academic pressure, stress, and potentially mental health challenges.
 
 As a student myself, I’ve seen firsthand the toll that stress, competition, and uncertainty can take on mental well-being. Traditional solutions like therapy often face barriers of cost, stigma, or limited availability. That’s why I’m passionate about exploring Bibliotherapy – the power of reading to heal and empower. It’s accessible, affordable, and can offer comfort, coping mechanisms, and even inspiration. Hence, I looked at University students to be my target audience.
 
@@ -48,17 +48,12 @@ By targeting my project towards students, I hoped to equip them with tools to ma
 Ultimately, I believed Bibliotherapy could be a powerful weapon for well-being for almost anyone and everyone.
 
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
-
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+ You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
 
 Text here!
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+ You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
 Text here!
