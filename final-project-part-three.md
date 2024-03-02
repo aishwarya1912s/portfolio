@@ -36,7 +36,9 @@ I also added more text explaining the studies related to the visualizations sinc
 
 
 ## The audience
-Target Audience: University students aged 18-25, experiencing academic pressure, stress, and potentially mental health challenges.
+Target Audience: 
+
+University students, experiencing academic pressure, stress, and potentially mental health challenges.
 
 As a student myself, I’ve seen firsthand the toll that stress, competition, and uncertainty can take on mental well-being. Traditional solutions like therapy often face barriers of cost, stigma, or limited availability. That’s why I’m passionate about exploring Bibliotherapy – the power of reading to heal and empower. It’s accessible, affordable, and can offer comfort, coping mechanisms, and even inspiration. Hence, I looked at University students to be my target audience.
 
